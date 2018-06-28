@@ -1,3 +1,5 @@
+Make sure to run these commands in terminal 
+
 ### Saving a Snapshot 
 
 ```
@@ -11,7 +13,7 @@ git commit -m "your descriptive commit message"
 git push origin master
 ```
 
-### Pushhing to Heroku 
+### Pushing to Heroku 
 ```
 git push heroku master
 ```
