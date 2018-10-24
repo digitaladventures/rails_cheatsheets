@@ -13,6 +13,11 @@ git commit -m "your descriptive commit message"
 git push origin master
 ```
 
+### Pulling from Github
+```
+git pull origin master
+```
+
 ### Pushing to Heroku 
 ```
 git push heroku master
