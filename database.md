@@ -1,5 +1,5 @@
 ### create a new Rails model 
-replace anything inside `[ ]` wuth your own names
+replace anything inside `[ ]` with your own names
 ```
 rails generate [model_name] [column_1_name]:[column_1_data_type] [column_2_name]:[column_2_data_type]
 ```
